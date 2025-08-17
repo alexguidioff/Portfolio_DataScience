@@ -9,12 +9,15 @@ Each project is stored in its own folder with the following structure:
 Project1_Wine_Analysis/
 ├─ Wine_Quality_Analysis.ipynb
 ├─ README.md
+
 Project2_Gun_Violence/
 ├─ Gun_Violence_Analysis.ipynb
 ├─ README.md
+
 Project3_Food_Environmental_Impact/
 ├─ Food_Impact_Analysis.ipynb
 ├─ README.md
+
 Project4_Music_Genre_Classification/
 ├─ Music_Classification.ipynb
 ├─ README.md
